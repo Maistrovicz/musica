@@ -1,4 +1,4 @@
 # Projeto de seleção de músicas
--adicionei funk.
--adicionei eltronica.
--adicionei phonk.
+-adcionei funk.
+-adcionei eltronica.
+-adcionei phonk.
